@@ -2,6 +2,7 @@ package com.example.nejinho;
 
 import android.os.Bundle;
 
+import com.example.nejinho.infrastructure.model.Atividade;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import androidx.appcompat.app.AppCompatActivity;
